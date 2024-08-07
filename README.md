@@ -1,6 +1,7 @@
 # Hi there, I'm Shubham Gopichand Kadu 👋
 
-!Profile Banner
+![Uploading sc.png…]()
+
 
 ## About Me
 
