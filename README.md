@@ -1,6 +1,6 @@
 # Hi there, I'm Shubham Gopichand Kadu 👋
 
-![Uploading sc.png…]()
+![sc](https://github.com/user-attachments/assets/e9b462ab-9b43-4718-9ac7-b6a293bc8d3e)
 
 
 ## About Me
