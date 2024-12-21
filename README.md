@@ -7,8 +7,6 @@
 ## About Me
 
 - 🌱 I’m currently learning Web Development and exploring MongoDB, Node.js, and Express.
-- 💼 I’m interested in DevOps and Web3 technologies.
-- 🎓 I’m passionate about Web & Web3Technologies.
 - 📫 How to reach me: shubhamkadu887@gmail.com
 - ⚡ Fun fact: I love coding and solving complex problems!
 
